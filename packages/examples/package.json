@@ -1,6 +1,6 @@
 {
   "name": "@jsonforms/examples",
-  "version": "3.0.1-alpha.0",
+  "version": "3.0.2-alpha.0",
   "description": "JSON Forms Example Data",
   "repository": "https://github.com/eclipsesource/jsonforms",
   "bugs": "https://github.com/eclipsesource/jsonforms/issues",
@@ -48,7 +48,7 @@
     "@jsonforms/core": "3.0.0"
   },
   "devDependencies": {
-    "@jsonforms/core": "^3.0.1-alpha.0",
+    "@jsonforms/core": "^3.0.2-alpha.0",
     "rimraf": "^3.0.2",
     "rollup": "^2.7.3",
     "rollup-plugin-cleanup": "^3.2.1",
@@ -58,5 +58,6 @@
     "tslint": "^5.20.1",
     "typedoc": "^0.19.2",
     "typescript": "4.2.3"
-  }
+  },
+  "gitHead": "0360452cabc40b6332cb14ed919313bb0620c96e"
 }
